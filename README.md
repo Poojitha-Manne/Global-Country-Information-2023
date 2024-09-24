@@ -1,12 +1,13 @@
 # Global-Country-Information-2023
 This repository has a comprehensive dataset that provides extensive insights into countries around the world. The collection covers a wide range of variables, from demographic statistics and economic data to environmental and healthcare information.
 
-#Description
+**Description**
+
 This comprehensive dataset provides a wealth of information about all countries worldwide, covering a wide range of indicators and attributes. It encompasses demographic statistics, economic indicators, environmental factors, healthcare metrics, education statistics, and much more. With every country represented, this dataset offers a complete global perspective on various aspects of nations, enabling in-depth analyses and cross-country comparisons.
 
 
+**Key Features**
 
-#Key Features
 Country: Name of the country.
 Density (P/Km2): Population density measured in persons per square kilometer.
 Abbreviation: Abbreviation or code representing the country.
